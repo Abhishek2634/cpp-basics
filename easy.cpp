@@ -8,5 +8,4 @@ int main(){
     cout << "floor " << a << " / " << b << " = " << floor(m) << '\n' ;
     cout << "ceil " << a << " / " << b << " = " << ceil(m)   << '\n';
     cout << "round " << a << " / " << b <<  " = " <<round(m)  <<'\n' ;
-
 }
